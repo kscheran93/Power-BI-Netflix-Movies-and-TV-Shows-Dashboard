@@ -90,8 +90,3 @@ The dashboard provides several key insights into Netflix's content catalog:
    - **End Year:** [2021]
    - **Locations:** [8807]
 
-These insights are crucial for content strategy, helping Netflix maintain a diverse and appealing catalog for its global audience.
-
----
-
-This README.md provides a detailed overview of your project and the steps taken to build the dashboard. You can customize the dashboard link and snapshots as needed.
