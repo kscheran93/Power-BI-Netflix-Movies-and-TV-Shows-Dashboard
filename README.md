@@ -1,10 +1,7 @@
-Here's a README.md file for your Netflix Movies and TV Shows Power BI Dashboard project, based on the format you provided:
-
----
 
 # Netflix Movies and TV Shows Dashboard
 
-# Snapshot of Dashboard (Power BI Service)
+## Snapshot of Dashboard (Power BI Service)
 
 ![Dashboard_Snapshot]()
 
