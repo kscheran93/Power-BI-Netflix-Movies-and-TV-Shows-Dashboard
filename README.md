@@ -3,7 +3,7 @@
 
 ## Snapshot of Dashboard (Power BI Service)
 
-![Dashboard_Snapshot]()
+![Dashboard_Snapshot](https://github.com/kscheran93/Power-BI-Netflix-Movies-and-TV-Shows-Dashboard/blob/main/netfilix%20.png)
 
 ### Dashboard Link: [https://app.powerbi.com/view?r=eyJrIjoiN2E5OGQ5NjEtODQ1ZS00YjJlLTljMzYtYzJkMjgyNmRhN2QyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9]
 
